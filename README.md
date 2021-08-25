@@ -68,6 +68,7 @@ Note: Steps can differ based on the phone manufacturer!
 # AppPakage and AppActivity from command line
 - C:\Users>adb shell
 - 1|beyond1:/ $ dumpsys activity activities | grep mResumedActivity
+- http://www.automationtestinghub.com/apppackage-and-appactivity-name/
 
 
 
