@@ -61,9 +61,9 @@ Note: Steps can differ based on the phone manufacturer!
 - Settings -> Developer Options -> Enable USB Debugging
 - Permission pop-up: Check the box and press Allow to recognize the computer
 - run "adb devices" in CMD prompt to check if device is recognized
-- USB drivers:
-- Google: https://developer.android.com/studio/run/win-usb
-- OEMs: https://developer.android.com/studio/run/oem-usb
+- Download Vysor (https://www.vysor.io/download/)
+- Google USB driver: https://developer.android.com/studio/run/win-usb
+- OEMs USB driver: https://developer.android.com/studio/run/oem-usb
 
 
 
