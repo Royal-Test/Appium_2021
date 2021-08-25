@@ -50,11 +50,11 @@ Step 5: Verify installation using appium-doctor
 
 Step 6: Emulator Setup: Create AVD and start it 
 ================================================
-- Open Android Studio -> Configure -> AVD Manager -> Create Virtual Device -> 
+- Open Android Studio -> Configure -> AVD Manager -> Create Virtual Device 
 - Select Model -> Download Image for desired OS version if not already downloaded 
 - Start AVD
 
-Step 8: Real Device Setup: Enable USB debugging on Android mobile
+Step 7: Real Device Setup: Enable USB debugging on Android mobile
 ==================================================================
 Note: Steps can differ based on the phone manufacturer!
 - Settings -> System -> About Phone -> Click Build Number 7-8 times
