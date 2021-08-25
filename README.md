@@ -65,7 +65,7 @@ Note: Steps can differ based on the phone manufacturer!
 - Google USB driver: https://developer.android.com/studio/run/win-usb
 - OEMs USB driver: https://developer.android.com/studio/run/oem-usb
 
-# AppPakage and AppActivity from command line
+# AppPackage and AppActivity from command line
 - C:\Users>adb shell
 - 1|beyond1:/ $ dumpsys activity activities | grep mResumedActivity
 - http://www.automationtestinghub.com/apppackage-and-appactivity-name/
